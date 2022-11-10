@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @dvzk1
-- 👀 I’m interested in AI applications
-- 🌱 I’m currently learning AI at UFG
+# WELCOME TO MY PROFILE! | BEM VINDO AO MEU PERFIL DO GITHUB!
 
+- 🙋‍♂️ My name is Davi de Jesus Teixeira (@dvzk1)!
+- 📌 I'm from Goiânia, Goiás, Brazil;
+- 👨🏻‍🏫 Undergraduating AI student at UFG (Universidade Federal de Goiás) 2022 - 2025;
+- 📫 Wanna get in touch? email me at dvjteixeira@gmail.com;
 
-<!---
-dvzk1/dvzk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
