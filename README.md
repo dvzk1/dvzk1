@@ -13,7 +13,6 @@
 Check out my GitHub statistics to see my contributions and activity:
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=dvzk1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvzk1&layout=compact&theme=radical)
 
 ---
 
