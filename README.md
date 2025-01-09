@@ -10,17 +10,10 @@
 ---
 
 ## 📈 Stats
-Check out my GitHub statistics to see my contributions and activity:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dvzk1&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
-
----
-
-## 🐍 Contribution Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvzk1&theme=radical)](https://github.com/dvzk1)
 
 ---
 
