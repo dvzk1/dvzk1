@@ -11,19 +11,13 @@
 
 ## 📈 Stats
 
-<div align="center"> <!-- GitHub Readme Stats --> <img src="https://github-readme-stats.vercel.app/api?username=dvzk1&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" /> <!-- Most Used Languages -->
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=dvzk1&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" /> 
+</div>
 
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvzk1&layout=compact&theme=github_dark" alt="Most Used Languages" />
-
-<!-- GitHub Profile Summary Cards -->
-
-
-
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvzk1&theme=github_dark" alt="GitHub Details" />
-</a>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvzk1&theme=github_dark" alt="GitHub Details" />
+</div>
 
 </div>
 
@@ -40,3 +34,5 @@
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
+---
